@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 soy Eduardo Arenas</h1>
 <h3 align="center">Fronted Developer || Angular</h3>
 
-- 🔭 Actualmente estoy trabajando en **Byte Engine**
+- 🔭 Actualmente estoy trabajando en **Bit Engine**
 
 - 🌱 Actualmente estoy aprendiendo **backend**
 
