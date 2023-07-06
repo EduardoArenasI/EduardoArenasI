@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola Soy Eduardo Arenas  actualmente estudio el sexto semestre <br>de la ing en sistemas computacionales <br><br>Actualmente soy Fronted Developer con Angular<br>me encuentro haciendo practicas profesionales en Bit engine<br><br>me encuentro aprendiendo Backend con django
+Hola Soy Eduardo Arenas  actualmente estudio el sexto semestre <br>de la ing en sistemas computacionales <br><br>Actualmente soy Fronted Developer con Angular<br><br><br>me encuentro aprendiendo Backend con django
 
 
 ## 🌐 Socials:
