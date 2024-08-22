@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola Soy Eduardo Arenas  actualmente estudio el octavo semestre <br>de la ing en sistemas computacionales <br><br>Actualmente soy Lider de proyectos en desarrollo web
+Hola Soy Eduardo Arenas  soy alumno del 9no semestre de ing en sistemas computacionales actualmente me desempeño en el rol de Frontend/Lider de proyecto tengo experiencia en desarrollo de software y como Ente Auditor para diferentes instituciones 
 <br>
 
 
