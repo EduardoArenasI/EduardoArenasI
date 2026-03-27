@@ -1,49 +1,32 @@
 
 
-```bash
-$ cat profile.yml
+```js
+const Eduardo = {
+  country: 'México',
+  role: 'Ingeniero en Sistemas',
+  currentJob: 'Tecnológico Nacional de México Campus Escárcega',
 
-name: Eduardo Arenas Interian
-title: Ingeniero en Sistemas
+  education: {
+    degree: 'Ingeniería en Sistemas',
+    institution: 'Tecnológico Nacional de México',
+    postgraduate: 'Maestría en Inteligencia Artificial (en proceso)'
+  },
 
-current_job:
-  company: Tecnológico Nacional de México Campus Escárcega
+  roles: ['Ponente', 'Investigador en educación inclusiva'],
 
-education:
-  degree: Ingeniería en Sistemas
-  institution: Tecnológico Nacional de México
-  postgraduate: Maestría en Inteligencia Artificial (en proceso)
+  interests: [
+    'Desarrollo Web',
+    'Aplicaciones con Streamlit',
+    'Automatización',
+    'UX/UI'
+  ],
 
-roles:
-  [
-    "Ponente",
-    "Investigador en educación inclusiva"
-  ]
+  techStack: ['Python', 'Streamlit', 'HTML/CSS', 'Bases de Datos', 'Git & GitHub'],
 
-fields_of_interest:
-  [
-    "Desarrollo Web",
-    "Aplicaciones con Streamlit",
-    "Automatización",
-    "UX/UI"
-  ]
+  currentlyLearning: ['Django', 'APIs', 'Deploy en la nube'],
 
-technical_background:
-  [
-    "Python",
-    "Streamlit",
-    "HTML/CSS",
-    "Bases de Datos",
-    "Git & GitHub"
-  ]
-
-currently_learning:
-  [
-    "Django",
-    "APIs",
-    "Deploy en la nube"
-  ]
-
-contact:
-  email: EduardoArenas@escarcega.tecnm.mx
-  email: Eduardoarenas014@gmail.com
+  contact: {
+    email: 'EduardoArenas@escarcega.tecnm.mx'
+    email: eduardoarenas014@gmail.com
+  }
+}
