@@ -26,7 +26,7 @@ const Eduardo = {
   currentlyLearning: ['Django', 'APIs', 'Deploy en la nube'],
 
   contact: {
-    email: 'EduardoArenas@escarcega.tecnm.mx'
+    email: 'EduardoArenas@escarcega.tecnm.mx',
     email: 'eduardoarenas014@gmail.com'
   }
 }
