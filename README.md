@@ -27,6 +27,6 @@ const Eduardo = {
 
   contact: {
     email: 'EduardoArenas@escarcega.tecnm.mx'
-    email: eduardoarenas014@gmail.com
+    email: 'eduardoarenas014@gmail.com'
   }
 }
