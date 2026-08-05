@@ -2,6 +2,7 @@
 
 ```js
 const Eduardo = {
+  about me: Futuro Esposo de Anael , programador fullstack , MPIA Arenas y Docente en el ITSE
   country: 'México',
   role: 'Ingeniero en Sistemas',
   currentJob: 'Tecnológico Nacional de México Campus Escárcega',
